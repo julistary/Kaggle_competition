@@ -1,6 +1,6 @@
 # 💎 KAGGLE COMPETITION 💎
 
-<img width=600 src="https://www.wallpapertip.com/wmimgs/11-111305_jewelery-bokeh-bling-abstraction-abstract-sparkle-wallpaper-diamond.jpg">
+<img width=300 src="https://www.wallpapertip.com/wmimgs/11-111305_jewelery-bokeh-bling-abstraction-abstract-sparkle-wallpaper-diamond.jpg">
 
 ## Goal 🏁
 This is a machine learning project that was sent to us at the Ironhack data analytics bootcamp. 
@@ -21,7 +21,7 @@ The objective of the project is to find the best machine learning model and para
 The first thing I did was importing and cleaning the `Diamonds` dataset.
 
 For the prediction I trained the following models (in the best ones I adjusted the parameters through grid search)
-* Linear Regression MSE : 0.12)
+* Linear Regression (MSE : 0.12)
 * Ridge (MSE : 0.12)
 * Lasso (MSE : 1.03)
 * SGD (MSE : 2992133515461431)
