@@ -29,7 +29,7 @@ For the prediction I trained the following models (in the best ones I adjusted t
 * Gradient (MSE : 0.13)
 * Random Forest (MSE : 0.0105)
 * XGBoost (MSE : 0.0093)
-* SVR (MSE : 0.133
+* SVR (MSE : 0.133)
 * MLP Regressor (MSE : 0.0208)
 
 Although it seems that the best model is XgBoost, when submitting to Kaggle, the best model is Boosting. 
