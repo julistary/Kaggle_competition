@@ -32,7 +32,7 @@ For the prediction I trained the following models (in the best ones I adjusted t
 * SVR (MSE : 0.133)
 * MLP Regressor (MSE : 0.0208)
 
-Although it seems that the best model is XgBoost, when submitting to Kaggle, the best model is Boosting. 
+Although it seems that the best model is XgBoost, when submitting to Kaggle, the best model is Boosting. This must be because the model is overfitting. 
 
 ## Content of the repository 👀
 
