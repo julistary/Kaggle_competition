@@ -40,3 +40,7 @@ Although it seems that the best model is XgBoost, when submitting to Kaggle, the
 - Img folder with some helpful images for understandig the dataset
 - Models with the main predictions
 - Models.ipynb with all the cleaning and predictions. 
+
+## TO DO
+- Compare test and train to analyze overfitting
+- [H20](https://www.cienciadedatos.net/documentos/py04_machine_learning_con_h2o_y_python)
